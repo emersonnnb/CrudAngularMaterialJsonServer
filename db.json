@@ -1,0 +1,37 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "bataba",
+      "categoria": "legumes",
+      "validade": "1950-01-17T02:00:00.000Z",
+      "situacao": "Ativo",
+      "preco": 34,
+      "comentario": "dsa"
+    },
+    {
+      "id": 2,
+      "nome": "Banana",
+      "categoria": "frutas",
+      "validade": "2022-04-06T03:00:00.000Z",
+      "situacao": "Ativo",
+      "preco": 1243,
+      "comentario": "wsdf"
+    },
+    {
+      "situacao": "ativo",
+      "classe": "inativo",
+      "descricao": "teste de postman",
+      "id": 3
+    },
+    {
+      "nome": "emerson",
+      "categoria": "frutas",
+      "validade": "2022-04-04T03:00:00.000Z",
+      "situacao": "Ativo",
+      "preco": 2345,
+      "comentario": "dgfv",
+      "id": 4
+    }
+  ]
+}
